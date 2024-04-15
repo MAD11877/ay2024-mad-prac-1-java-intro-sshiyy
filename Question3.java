@@ -11,6 +11,6 @@ public class Question3
 
     int ans = integer * integer;
 
-    System.out.println(ans);
+    System.out.println(ans); // print ans
   }
 }
