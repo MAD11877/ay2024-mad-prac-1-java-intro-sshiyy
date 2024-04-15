@@ -12,7 +12,7 @@ public class Question4
       {
         for (int column = 0; column < row; column++)
           {
-            System.out.print("*");
+            System.out.print("*"); // print
           }
         System.out.println();
       }
